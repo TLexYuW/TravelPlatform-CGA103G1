@@ -4,3 +4,5 @@
 
 # TravelPlatform-CGA103G1
 Project Integration Version
+
+![](https://github.com/TLexYuW/TravelPlatform-CGA103G1/blob/main/imgs/HomePage.png)
