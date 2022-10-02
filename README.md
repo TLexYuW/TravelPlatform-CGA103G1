@@ -5,7 +5,7 @@
 # TravelPlatform-CGA103G1
 Project Integration Version
 
-## Deploy on GCP
+## GCP
 https://bit.ly/3rnWZwC
 
 # Home Page
