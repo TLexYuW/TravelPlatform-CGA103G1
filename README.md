@@ -5,5 +5,8 @@
 # TravelPlatform-CGA103G1
 Project Integration Version
 
+## Deploy on GCP
+https://bit.ly/3rnWZwC
+
 # Home Page
 ![](https://github.com/TLexYuW/TravelPlatform-CGA103G1/blob/main/imgs/HomePage.png)
