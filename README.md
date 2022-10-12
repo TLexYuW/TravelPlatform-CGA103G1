@@ -6,7 +6,9 @@
 Project Integration Version
 
 ## GCP
+Front-End Web
 https://bit.ly/3rnWZwC <br>
+Back-End Web
 https://reurl.cc/9plykV
 
 # Home Page
