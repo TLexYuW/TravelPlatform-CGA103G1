@@ -7,7 +7,7 @@ Project Integration Version
 
 ## GCP
 https://bit.ly/3rnWZwC <br>
-https://reurl.cc/YXxQ50
+https://reurl.cc/9plykV
 
 # Home Page
 ![](https://github.com/TLexYuW/TravelPlatform-CGA103G1/blob/main/imgs/HomePage.png)
